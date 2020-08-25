@@ -16,6 +16,7 @@ The program should enable the user to use the following functions:
 7. QUIT: Using this function, the user can exit the program. However, he should be asked first wither to save, exit without saving or staying.
 
 
+
 ### Paint_Program:
 It is required to create a Paint on console program. When the user opens the program, a menu appears where he is asked to choose Free paint, drawing geometrical figures or exiting the program.
 ###### 1. Free paint:
@@ -38,3 +39,13 @@ f. Clear the whole screen by pressing a Clear button using the mouse.
 g. Return to the main menu by pressing a Home button using the mouse.
 3. Exit:
 If pressed, the user is asked “Are you sure you want to quit?” and he choose to press either Yes or No buttons using mouse.
+
+
+
+### stack_array:
+ Implementation of stack using Array.
+
+
+
+### stack_linkedlist:
+ Implementation of stack using Linked_list

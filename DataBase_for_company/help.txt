@@ -1,0 +1,17 @@
+
+/**********DATABASE of NanoArrow help document ************\
+1.ADD: Using this function, the user can add the data of a new employee field by field. 
+
+2.LOAD: Using this function, the user can add the data of a new employee by reading it from a text file. 
+
+3.DELETE: Using this function, the user can delete the data of any employee by just specifying his name. 
+
+4.SAVE: Using this function, the user can write the whole data base in a text file with the same format mentioned in the LOAD function. The data should be printed alphabetically ordered, from A to Z. 
+
+5.SEARCH: Using this function, the user can get the data of any employee by just knowing his name. Data should be printed on the console. 
+
+6.MODIFY: Using this function, the user can modify the data of any employee by being asked about his name and required field to be modified. The name and birthdate shouldn’t be allowed to be changed. 
+
+7.SORT: Using this function, the user can arrange the database text file either by arranging the data according to names from A to Z or from Z to A or according to age, birthdate, from youngest to eldest or from eldest to youngest. 
+
+q.QUIT: Using this function, the user can exit the program. However, he should be asked first wither to save, exit without saving or staying. 
